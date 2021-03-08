@@ -2,7 +2,7 @@
 %global _python_bytecompile_build %nil
 
 Name:           powerline
-Version:	2.8.1
+Version:	2.8.2
 Release:	1
 
 Summary:        The ultimate status-line/prompt utility
@@ -29,7 +29,6 @@ Recommends:     python3-pygit2
 
 Source0:        https://github.com/powerline/powerline/archive/%{version}/powerline-%{version}.tar.gz
 Source1:        vim-powerline.metainfo.xml
-Patch0:         powerline-py2v3-fix.patch
 
 %description
 Powerline is a status-line plugin for vim, and provides status-lines and prompts
