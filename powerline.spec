@@ -3,7 +3,7 @@
 
 Name:           powerline
 Version:	2.8.2
-Release:	1
+Release:	2
 
 Summary:        The ultimate status-line/prompt utility
 License:        MIT
