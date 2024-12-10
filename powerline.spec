@@ -2,8 +2,8 @@
 %global _python_bytecompile_build %nil
 
 Name:           powerline
-Version:	2.8.2
-Release:	3
+Version:	2.8.4
+Release:	1
 
 Summary:        The ultimate status-line/prompt utility
 License:        MIT
